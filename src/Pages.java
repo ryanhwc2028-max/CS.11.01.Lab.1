@@ -8,5 +8,6 @@ public class Pages {
         age = scanner.nextInt();
         minimum = 100-age;
         System.out.print("You should read " + minimum + " before giving up on a book");
+        scanner.close();
     }
 }

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //i just learnt how to use scanner online (for prompts)
 public class Dateable {
 
     public static void main(String[] args) {
